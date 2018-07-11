@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-sam"]
+	path = themes/hexo-theme-sam
+	url = https://github.com/Sam618/hexo-theme-sam.git
